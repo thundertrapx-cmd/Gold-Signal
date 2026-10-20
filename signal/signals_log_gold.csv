@@ -1,0 +1,3 @@
+time,event,symbol,validated,type,price,sl,R_multiple,note,pnl_usd
+2026-10-14 22:21:37.465839,ENTRY,XAU/USD,True,SELL,4092.0904,4141.1619,,"fixed TP, no cost, lot 0.01",
+2026-10-15 09:34:36.723362,EXIT,XAU/USD,True,SELL,4141.1619,,-1.0,"fixed SL, no cost",-49.37

@@ -1,0 +1,341 @@
+2026-05-31 21:26:10 - ERROR: '>' not supported between instances of 'float' and 'NoneType'
+2026-05-31 21:27:09 - ERROR: '>' not supported between instances of 'float' and 'NoneType'
+2026-06-10 08:29:43 - ERROR: HTTPSConnectionPool(host='api.twelvedata.com', port=443): Max retries exceeded with url: /time_series?symbol=XAU%2FUSD&interval=1h&outputsize=200&dp=5&timezone=Exchange&order=desc&prepost=false&format=JSON&apikey=72be8809556a4691ad121aead41180f8&source=python (Caused by NameResolutionError("HTTPSConnection(host='api.twelvedata.com', port=443): Failed to resolve 'api.twelvedata.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-06-10 10:34:29 - ERROR: HTTPSConnectionPool(host='api.twelvedata.com', port=443): Max retries exceeded with url: /time_series?symbol=XAU%2FUSD&interval=1h&outputsize=200&dp=5&timezone=Exchange&order=desc&prepost=false&format=JSON&apikey=72be8809556a4691ad121aead41180f8&source=python (Caused by NameResolutionError("HTTPSConnection(host='api.twelvedata.com', port=443): Failed to resolve 'api.twelvedata.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-06-10 10:56:10 - ERROR: HTTPSConnectionPool(host='api.twelvedata.com', port=443): Max retries exceeded with url: /time_series?symbol=XAU%2FUSD&interval=1h&outputsize=200&dp=5&timezone=Exchange&order=desc&prepost=false&format=JSON&apikey=72be8809556a4691ad121aead41180f8&source=python (Caused by NameResolutionError("HTTPSConnection(host='api.twelvedata.com', port=443): Failed to resolve 'api.twelvedata.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-06-10 11:59:23 - ERROR: HTTPSConnectionPool(host='api.twelvedata.com', port=443): Max retries exceeded with url: /time_series?symbol=XAU%2FUSD&interval=1h&outputsize=200&dp=5&timezone=Exchange&order=desc&prepost=false&format=JSON&apikey=72be8809556a4691ad121aead41180f8&source=python (Caused by NameResolutionError("HTTPSConnection(host='api.twelvedata.com', port=443): Failed to resolve 'api.twelvedata.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-06-10 15:49:38 - ERROR: HTTPSConnectionPool(host='api.twelvedata.com', port=443): Max retries exceeded with url: /time_series?symbol=XAU%2FUSD&interval=1h&outputsize=200&dp=5&timezone=Exchange&order=desc&prepost=false&format=JSON&apikey=72be8809556a4691ad121aead41180f8&source=python (Caused by NameResolutionError("HTTPSConnection(host='api.twelvedata.com', port=443): Failed to resolve 'api.twelvedata.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-06-12 12:02:58 - ERROR: HTTPSConnectionPool(host='api.twelvedata.com', port=443): Max retries exceeded with url: /time_series?symbol=XAU%2FUSD&interval=1h&outputsize=200&dp=5&timezone=Exchange&order=desc&prepost=false&format=JSON&apikey=72be8809556a4691ad121aead41180f8&source=python (Caused by NameResolutionError("HTTPSConnection(host='api.twelvedata.com', port=443): Failed to resolve 'api.twelvedata.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-06-12 13:08:45 - ERROR: HTTPSConnectionPool(host='api.twelvedata.com', port=443): Max retries exceeded with url: /time_series?symbol=XAU%2FUSD&interval=1h&outputsize=200&dp=5&timezone=Exchange&order=desc&prepost=false&format=JSON&apikey=72be8809556a4691ad121aead41180f8&source=python (Caused by NameResolutionError("HTTPSConnection(host='api.twelvedata.com', port=443): Failed to resolve 'api.twelvedata.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-06-13 08:51:50 - ERROR: HTTPSConnectionPool(host='api.twelvedata.com', port=443): Max retries exceeded with url: /time_series?symbol=XAU%2FUSD&interval=1h&outputsize=200&dp=5&timezone=Exchange&order=desc&prepost=false&format=JSON&apikey=72be8809556a4691ad121aead41180f8&source=python (Caused by NameResolutionError("HTTPSConnection(host='api.twelvedata.com', port=443): Failed to resolve 'api.twelvedata.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-06-16 12:04:59 - ERROR: HTTPSConnectionPool(host='api.twelvedata.com', port=443): Read timed out. (read timeout=30)
+2026-06-16 16:10:47 - ERROR: HTTPSConnectionPool(host='api.twelvedata.com', port=443): Max retries exceeded with url: /time_series?symbol=XAU%2FUSD&interval=1h&outputsize=200&dp=5&timezone=Exchange&order=desc&prepost=false&format=JSON&apikey=72be8809556a4691ad121aead41180f8&source=python (Caused by NameResolutionError("HTTPSConnection(host='api.twelvedata.com', port=443): Failed to resolve 'api.twelvedata.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-06-16 19:20:34 - ERROR: HTTPSConnectionPool(host='api.twelvedata.com', port=443): Max retries exceeded with url: /time_series?symbol=XAU%2FUSD&interval=1h&outputsize=200&dp=5&timezone=Exchange&order=desc&prepost=false&format=JSON&apikey=72be8809556a4691ad121aead41180f8&source=python (Caused by NameResolutionError("HTTPSConnection(host='api.twelvedata.com', port=443): Failed to resolve 'api.twelvedata.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-06-17 11:45:12 - ERROR: HTTPSConnectionPool(host='api.twelvedata.com', port=443): Read timed out. (read timeout=30)
+2026-06-17 16:48:40 - ERROR: HTTPSConnectionPool(host='api.twelvedata.com', port=443): Max retries exceeded with url: /time_series?symbol=XAU%2FUSD&interval=1h&outputsize=200&dp=5&timezone=Exchange&order=desc&prepost=false&format=JSON&apikey=72be8809556a4691ad121aead41180f8&source=python (Caused by NameResolutionError("HTTPSConnection(host='api.twelvedata.com', port=443): Failed to resolve 'api.twelvedata.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-06-18 02:05:04 - ERROR: HTTPSConnectionPool(host='api.twelvedata.com', port=443): Read timed out. (read timeout=30)
+2026-06-19 08:55:07 - ERROR: HTTPSConnectionPool(host='api.twelvedata.com', port=443): Read timed out. (read timeout=30)
+2026-06-19 13:25:18 - ERROR: HTTPSConnectionPool(host='api.twelvedata.com', port=443): Max retries exceeded with url: /time_series?symbol=XAU%2FUSD&interval=1h&outputsize=200&dp=5&timezone=Exchange&order=desc&prepost=false&format=JSON&apikey=72be8809556a4691ad121aead41180f8&source=python (Caused by NameResolutionError("HTTPSConnection(host='api.twelvedata.com', port=443): Failed to resolve 'api.twelvedata.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-06-20 08:40:02 - ERROR: HTTPSConnectionPool(host='api.twelvedata.com', port=443): Max retries exceeded with url: /time_series?symbol=XAU%2FUSD&interval=1h&outputsize=200&dp=5&timezone=Exchange&order=desc&prepost=false&format=JSON&apikey=72be8809556a4691ad121aead41180f8&source=python (Caused by NameResolutionError("HTTPSConnection(host='api.twelvedata.com', port=443): Failed to resolve 'api.twelvedata.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-06-22 11:55:43 - ERROR: HTTPSConnectionPool(host='api.twelvedata.com', port=443): Max retries exceeded with url: /time_series?symbol=XAU%2FUSD&interval=1h&outputsize=200&dp=5&timezone=Exchange&order=desc&prepost=false&format=JSON&apikey=72be8809556a4691ad121aead41180f8&source=python (Caused by NameResolutionError("HTTPSConnection(host='api.twelvedata.com', port=443): Failed to resolve 'api.twelvedata.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-06-22 13:14:13 - ERROR: HTTPSConnectionPool(host='api.twelvedata.com', port=443): Max retries exceeded with url: /time_series?symbol=XAU%2FUSD&interval=1h&outputsize=200&dp=5&timezone=Exchange&order=desc&prepost=false&format=JSON&apikey=72be8809556a4691ad121aead41180f8&source=python (Caused by NameResolutionError("HTTPSConnection(host='api.twelvedata.com', port=443): Failed to resolve 'api.twelvedata.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-06-22 23:00:32 - ERROR: HTTPSConnectionPool(host='api.twelvedata.com', port=443): Read timed out. (read timeout=30)
+2026-06-23 01:59:33 - ERROR: HTTPSConnectionPool(host='api.twelvedata.com', port=443): Read timed out. (read timeout=30)
+2026-06-23 08:05:47 - ERROR: HTTPSConnectionPool(host='api.twelvedata.com', port=443): Read timed out. (read timeout=30)
+2026-06-23 11:54:33 - ERROR: HTTPSConnectionPool(host='api.twelvedata.com', port=443): Max retries exceeded with url: /time_series?symbol=XAU%2FUSD&interval=1h&outputsize=200&dp=5&timezone=Exchange&order=desc&prepost=false&format=JSON&apikey=72be8809556a4691ad121aead41180f8&source=python (Caused by NameResolutionError("HTTPSConnection(host='api.twelvedata.com', port=443): Failed to resolve 'api.twelvedata.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-06-24 02:33:08 - ERROR: ("Connection broken: ConnectionResetError(54, 'Connection reset by peer')", ConnectionResetError(54, 'Connection reset by peer'))
+2026-06-24 17:22:49 - ERROR: HTTPSConnectionPool(host='api.twelvedata.com', port=443): Max retries exceeded with url: /time_series?symbol=XAU%2FUSD&interval=1h&outputsize=200&dp=5&timezone=Exchange&order=desc&prepost=false&format=JSON&apikey=72be8809556a4691ad121aead41180f8&source=python (Caused by NameResolutionError("HTTPSConnection(host='api.twelvedata.com', port=443): Failed to resolve 'api.twelvedata.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-06-26 11:57:48 - ERROR: HTTPSConnectionPool(host='api.twelvedata.com', port=443): Max retries exceeded with url: /time_series?symbol=XAU%2FUSD&interval=1h&outputsize=200&dp=5&timezone=Exchange&order=desc&prepost=false&format=JSON&apikey=72be8809556a4691ad121aead41180f8&source=python (Caused by NameResolutionError("HTTPSConnection(host='api.twelvedata.com', port=443): Failed to resolve 'api.twelvedata.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-06-27 01:05:23 - ERROR: ("Connection broken: ConnectionResetError(54, 'Connection reset by peer')", ConnectionResetError(54, 'Connection reset by peer'))
+2026-06-29 08:50:22 - ERROR: HTTPSConnectionPool(host='api.twelvedata.com', port=443): Max retries exceeded with url: /time_series?symbol=XAU%2FUSD&interval=1h&outputsize=200&dp=5&timezone=Exchange&order=desc&prepost=false&format=JSON&apikey=72be8809556a4691ad121aead41180f8&source=python (Caused by NameResolutionError("HTTPSConnection(host='api.twelvedata.com', port=443): Failed to resolve 'api.twelvedata.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-06-29 11:45:03 - ERROR: HTTPSConnectionPool(host='api.twelvedata.com', port=443): Max retries exceeded with url: /time_series?symbol=XAU%2FUSD&interval=1h&outputsize=200&dp=5&timezone=Exchange&order=desc&prepost=false&format=JSON&apikey=72be8809556a4691ad121aead41180f8&source=python (Caused by NameResolutionError("HTTPSConnection(host='api.twelvedata.com', port=443): Failed to resolve 'api.twelvedata.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-06-29 12:10:07 - ERROR: HTTPSConnectionPool(host='api.twelvedata.com', port=443): Max retries exceeded with url: /time_series?symbol=XAU%2FUSD&interval=1h&outputsize=200&dp=5&timezone=Exchange&order=desc&prepost=false&format=JSON&apikey=72be8809556a4691ad121aead41180f8&source=python (Caused by NameResolutionError("HTTPSConnection(host='api.twelvedata.com', port=443): Failed to resolve 'api.twelvedata.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-06-30 12:10:17 - ERROR: HTTPSConnectionPool(host='api.twelvedata.com', port=443): Read timed out.
+2026-06-30 13:04:24 - ERROR: HTTPSConnectionPool(host='api.twelvedata.com', port=443): Max retries exceeded with url: /time_series?symbol=XAU%2FUSD&interval=1h&outputsize=200&dp=5&timezone=Exchange&order=desc&prepost=false&format=JSON&apikey=72be8809556a4691ad121aead41180f8&source=python (Caused by NameResolutionError("HTTPSConnection(host='api.twelvedata.com', port=443): Failed to resolve 'api.twelvedata.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-06-30 15:02:56 - ERROR: HTTPSConnectionPool(host='api.twelvedata.com', port=443): Max retries exceeded with url: /time_series?symbol=XAU%2FUSD&interval=1h&outputsize=200&dp=5&timezone=Exchange&order=desc&prepost=false&format=JSON&apikey=72be8809556a4691ad121aead41180f8&source=python (Caused by NameResolutionError("HTTPSConnection(host='api.twelvedata.com', port=443): Failed to resolve 'api.twelvedata.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-07-01 23:10:33 - ERROR: HTTPSConnectionPool(host='api.twelvedata.com', port=443): Read timed out.
+2026-07-02 00:35:32 - ERROR: HTTPSConnectionPool(host='api.twelvedata.com', port=443): Read timed out.
+2026-07-02 09:07:26 - ERROR: HTTPSConnectionPool(host='api.twelvedata.com', port=443): Max retries exceeded with url: /time_series?symbol=XAU%2FUSD&interval=1h&outputsize=200&dp=5&timezone=Exchange&order=desc&prepost=false&format=JSON&apikey=72be8809556a4691ad121aead41180f8&source=python (Caused by NameResolutionError("HTTPSConnection(host='api.twelvedata.com', port=443): Failed to resolve 'api.twelvedata.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-07-03 04:27:21 - ERROR: HTTPSConnectionPool(host='api.twelvedata.com', port=443): Read timed out. (read timeout=30)
+2026-07-04 03:18:00 - ERROR: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+2026-07-04 09:07:25 - ERROR: HTTPSConnectionPool(host='api.twelvedata.com', port=443): Max retries exceeded with url: /time_series?symbol=XAU%2FUSD&interval=1h&outputsize=200&dp=5&timezone=Exchange&order=desc&prepost=false&format=JSON&apikey=72be8809556a4691ad121aead41180f8&source=python (Caused by NameResolutionError("HTTPSConnection(host='api.twelvedata.com', port=443): Failed to resolve 'api.twelvedata.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-07-06 13:00:14 - ERROR: HTTPSConnectionPool(host='api.twelvedata.com', port=443): Max retries exceeded with url: /time_series?symbol=XAU%2FUSD&interval=1h&outputsize=200&dp=5&timezone=Exchange&order=desc&prepost=false&format=JSON&apikey=72be8809556a4691ad121aead41180f8&source=python (Caused by NameResolutionError("HTTPSConnection(host='api.twelvedata.com', port=443): Failed to resolve 'api.twelvedata.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-07-06 14:44:56 - ERROR: HTTPSConnectionPool(host='api.twelvedata.com', port=443): Max retries exceeded with url: /time_series?symbol=XAU%2FUSD&interval=1h&outputsize=200&dp=5&timezone=Exchange&order=desc&prepost=false&format=JSON&apikey=72be8809556a4691ad121aead41180f8&source=python (Caused by NameResolutionError("HTTPSConnection(host='api.twelvedata.com', port=443): Failed to resolve 'api.twelvedata.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-07-06 15:18:15 - ERROR: HTTPSConnectionPool(host='api.twelvedata.com', port=443): Max retries exceeded with url: /time_series?symbol=XAU%2FUSD&interval=1h&outputsize=200&dp=5&timezone=Exchange&order=desc&prepost=false&format=JSON&apikey=72be8809556a4691ad121aead41180f8&source=python (Caused by NameResolutionError("HTTPSConnection(host='api.twelvedata.com', port=443): Failed to resolve 'api.twelvedata.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-07-07 15:49:08 - ERROR: HTTPSConnectionPool(host='api.twelvedata.com', port=443): Max retries exceeded with url: /time_series?symbol=XAU%2FUSD&interval=1h&outputsize=200&dp=5&timezone=Exchange&order=desc&prepost=false&format=JSON&apikey=72be8809556a4691ad121aead41180f8&source=python (Caused by NameResolutionError("HTTPSConnection(host='api.twelvedata.com', port=443): Failed to resolve 'api.twelvedata.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-07-07 19:51:46 - ERROR: HTTPSConnectionPool(host='api.twelvedata.com', port=443): Read timed out. (read timeout=30)
+2026-07-07 20:42:13 - ERROR: <!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+
+<title>twelvedata.com | 520: Web server is returning an unknown error</title>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css" />
+</head>
+<body>
+<div id="cf-wrapper">
+    <div id="cf-error-details" class="p-0">
+        <header class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8">
+            <h1 class="inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2">
+                <span class="inline-block">Web server is returning an unknown error</span>
+                <span class="code-label">Error code 520</span>
+            </h1>
+            <div>
+                Visit <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_520&utm_campaign=api.twelvedata.com" target="_blank" rel="noopener noreferrer">cloudflare.com</a> for more information.
+            </div>
+            <div class="mt-3">2026-07-07 13:42:13 UTC</div>
+        </header>
+        <div class="my-8 bg-gradient-gray">
+            <div class="w-240 lg:w-full mx-auto">
+                <div class="clearfix md:px-8">
+                    <div id="cf-browser-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
+  <div class="relative mb-10 md:m-0">
+    
+    <span class="cf-icon-browser block md:hidden h-20 bg-center bg-no-repeat"></span>
+    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+    
+  </div>
+  <span class="md:block w-full truncate">You</span>
+  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
+  
+    Browser
+  
+  </h3>
+  
+  <span class="leading-1.3 text-2xl text-green-success">Working</span>
+  
+</div>
+                    <div id="cf-cloudflare-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
+  <div class="relative mb-10 md:m-0">
+    <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_520&#38;utm_campaign=api.twelvedata.com" target="_blank" rel="noopener noreferrer">
+    <span class="cf-icon-cloud block md:hidden h-20 bg-center bg-no-repeat"></span>
+    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+    </a>
+  </div>
+  <span class="md:block w-full truncate">Singapore</span>
+  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
+  <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_520&utm_campaign=api.twelvedata.com" target="_blank" rel="noopener noreferrer">
+    Cloudflare
+  </a>
+  </h3>
+  
+  <span class="leading-1.3 text-2xl text-green-success">Working</span>
+  
+</div>
+                    <div id="cf-host-status" class="cf-error-source relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
+  <div class="relative mb-10 md:m-0">
+    
+    <span class="cf-icon-server block md:hidden h-20 bg-center bg-no-repeat"></span>
+    <span class="cf-icon-error w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+    
+  </div>
+  <span class="md:block w-full truncate">api.twelvedata.com</span>
+  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
+  
+    Host
+  
+  </h3>
+  
+  <span class="leading-1.3 text-2xl text-red-error">Error</span>
+  
+</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="w-240 lg:w-full mx-auto mb-8 lg:px-8">
+            <div class="clearfix">
+                <div class="w-1/2 md:w-full float-left pr-6 md:pb-10 md:pr-0 leading-relaxed">
+                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What happened?</h2>
+                    <p>There is an unknown connection issue between Cloudflare and the origin web server. As a result, the web page can not be displayed.</p>
+                </div>
+                <div class="w-1/2 md:w-full float-left leading-relaxed">
+                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What can I do?</h2>
+                    
+                <h3 class="text-15 font-semibold mb-2">If you are a visitor of this website:</h3>
+                <p class="mb-6">Please try again in a few minutes.</p>
+
+                <h3 class="text-15 font-semibold mb-2">If you are the owner of this website:</h3>
+                <p><span>There is an issue between Cloudflare's cache and your origin web server. Cloudflare monitors for these errors and automatically investigates the cause. To help support the investigation, you can pull the corresponding error log from your web server and submit it our support team.  Please include the Ray ID (which is at the bottom of this error page).</span> <a rel="noopener noreferrer" href=   "https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-5xx-errors/error-520/">Additional troubleshooting resources</a>.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
+    <p class="text-13">
+      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">a177456daeb46008</strong></span>
+      <span class="cf-footer-separator sm:hidden">&bull;</span>
+      <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
+        Your IP:
+        <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
+        <span class="hidden" id="cf-footer-ip">2001:fb1:28:379c:3428:5e5f:c4d:eee9</span>
+        <span class="cf-footer-separator sm:hidden">&bull;</span>
+      </span>
+      <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_520&#38;utm_campaign=api.twelvedata.com" id="brand_link" target="_blank">Cloudflare</a></span>
+      
+    </p>
+    <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
+  </div><!-- /.error-footer -->
+
+    </div>
+</div>
+</body>
+</html>
+2026-07-09 15:40:36 - ERROR: HTTPSConnectionPool(host='api.twelvedata.com', port=443): Max retries exceeded with url: /time_series?symbol=XAU%2FUSD&interval=1h&outputsize=200&dp=5&timezone=Exchange&order=desc&prepost=false&format=JSON&apikey=72be8809556a4691ad121aead41180f8&source=python (Caused by NameResolutionError("HTTPSConnection(host='api.twelvedata.com', port=443): Failed to resolve 'api.twelvedata.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-07-10 20:34:05 - ERROR: HTTPSConnectionPool(host='api.twelvedata.com', port=443): Read timed out.
+2026-07-11 09:03:01 - ERROR: HTTPSConnectionPool(host='api.twelvedata.com', port=443): Max retries exceeded with url: /time_series?symbol=XAU%2FUSD&interval=1h&outputsize=200&dp=5&timezone=Exchange&order=desc&prepost=false&format=JSON&apikey=72be8809556a4691ad121aead41180f8&source=python (Caused by NameResolutionError("HTTPSConnection(host='api.twelvedata.com', port=443): Failed to resolve 'api.twelvedata.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-07-13 16:16:49 - ERROR: HTTPSConnectionPool(host='api.twelvedata.com', port=443): Max retries exceeded with url: /time_series?symbol=XAU%2FUSD&interval=1h&outputsize=200&dp=5&timezone=Exchange&order=desc&prepost=false&format=JSON&apikey=72be8809556a4691ad121aead41180f8&source=python (Caused by NameResolutionError("HTTPSConnection(host='api.twelvedata.com', port=443): Failed to resolve 'api.twelvedata.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-07-13 22:20:24 - ERROR: <!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+
+<title>twelvedata.com | 520: Web server is returning an unknown error</title>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css" />
+</head>
+<body>
+<div id="cf-wrapper">
+    <div id="cf-error-details" class="p-0">
+        <header class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8">
+            <h1 class="inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2">
+                <span class="inline-block">Web server is returning an unknown error</span>
+                <span class="code-label">Error code 520</span>
+            </h1>
+            <div>
+                Visit <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_520&utm_campaign=api.twelvedata.com" target="_blank" rel="noopener noreferrer">cloudflare.com</a> for more information.
+            </div>
+            <div class="mt-3">2026-07-13 15:20:24 UTC</div>
+        </header>
+        <div class="my-8 bg-gradient-gray">
+            <div class="w-240 lg:w-full mx-auto">
+                <div class="clearfix md:px-8">
+                    <div id="cf-browser-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
+  <div class="relative mb-10 md:m-0">
+    
+    <span class="cf-icon-browser block md:hidden h-20 bg-center bg-no-repeat"></span>
+    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+    
+  </div>
+  <span class="md:block w-full truncate">You</span>
+  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
+  
+    Browser
+  
+  </h3>
+  
+  <span class="leading-1.3 text-2xl text-green-success">Working</span>
+  
+</div>
+                    <div id="cf-cloudflare-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
+  <div class="relative mb-10 md:m-0">
+    <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_520&#38;utm_campaign=api.twelvedata.com" target="_blank" rel="noopener noreferrer">
+    <span class="cf-icon-cloud block md:hidden h-20 bg-center bg-no-repeat"></span>
+    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+    </a>
+  </div>
+  <span class="md:block w-full truncate">Bangkok</span>
+  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
+  <a href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_520&utm_campaign=api.twelvedata.com" target="_blank" rel="noopener noreferrer">
+    Cloudflare
+  </a>
+  </h3>
+  
+  <span class="leading-1.3 text-2xl text-green-success">Working</span>
+  
+</div>
+                    <div id="cf-host-status" class="cf-error-source relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
+  <div class="relative mb-10 md:m-0">
+    
+    <span class="cf-icon-server block md:hidden h-20 bg-center bg-no-repeat"></span>
+    <span class="cf-icon-error w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+    
+  </div>
+  <span class="md:block w-full truncate">api.twelvedata.com</span>
+  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">
+  
+    Host
+  
+  </h3>
+  
+  <span class="leading-1.3 text-2xl text-red-error">Error</span>
+  
+</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="w-240 lg:w-full mx-auto mb-8 lg:px-8">
+            <div class="clearfix">
+                <div class="w-1/2 md:w-full float-left pr-6 md:pb-10 md:pr-0 leading-relaxed">
+                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What happened?</h2>
+                    <p>There is an unknown connection issue between Cloudflare and the origin web server. As a result, the web page can not be displayed.</p>
+                </div>
+                <div class="w-1/2 md:w-full float-left leading-relaxed">
+                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What can I do?</h2>
+                    
+                <h3 class="text-15 font-semibold mb-2">If you are a visitor of this website:</h3>
+                <p class="mb-6">Please try again in a few minutes.</p>
+
+                <h3 class="text-15 font-semibold mb-2">If you are the owner of this website:</h3>
+                <p><span>There is an issue between Cloudflare's cache and your origin web server. Cloudflare monitors for these errors and automatically investigates the cause. To help support the investigation, you can pull the corresponding error log from your web server and submit it our support team.  Please include the Ray ID (which is at the bottom of this error page).</span> <a rel="noopener noreferrer" href=   "https://developers.cloudflare.com/support/troubleshooting/http-status-codes/cloudflare-5xx-errors/error-520/">Additional troubleshooting resources</a>.</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
+    <p class="text-13">
+      <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">a1a94553bfbda6fc</strong></span>
+      <span class="cf-footer-separator sm:hidden">&bull;</span>
+      <span id="cf-footer-item-ip" class="cf-footer-item hidden sm:block sm:mb-1">
+        Your IP:
+        <button type="button" id="cf-footer-ip-reveal" class="cf-footer-ip-reveal-btn">Click to reveal</button>
+        <span class="hidden" id="cf-footer-ip">2001:fb1:2a:41bd:844b:f201:94e:73a8</span>
+        <span class="cf-footer-separator sm:hidden">&bull;</span>
+      </span>
+      <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing?utm_source=errorcode_520&#38;utm_campaign=api.twelvedata.com" id="brand_link" target="_blank">Cloudflare</a></span>
+      
+    </p>
+    <script>(function(){function d(){var b=a.getElementById("cf-footer-item-ip"),c=a.getElementById("cf-footer-ip-reveal");b&&"classList"in b&&(b.classList.remove("hidden"),c.addEventListener("click",function(){c.classList.add("hidden");a.getElementById("cf-footer-ip").classList.remove("hidden")}))}var a=document;document.addEventListener&&a.addEventListener("DOMContentLoaded",d)})();</script>
+  </div><!-- /.error-footer -->
+
+    </div>
+</div>
+</body>
+</html>
+2026-07-14 08:48:16 - ERROR: HTTPSConnectionPool(host='api.twelvedata.com', port=443): Max retries exceeded with url: /time_series?symbol=XAU%2FUSD&interval=1h&outputsize=200&dp=5&timezone=Exchange&order=desc&prepost=false&format=JSON&apikey=72be8809556a4691ad121aead41180f8&source=python (Caused by NameResolutionError("HTTPSConnection(host='api.twelvedata.com', port=443): Failed to resolve 'api.twelvedata.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-07-14 19:17:27 - ERROR: HTTPSConnectionPool(host='api.twelvedata.com', port=443): Max retries exceeded with url: /time_series?symbol=XAU%2FUSD&interval=1h&outputsize=200&dp=5&timezone=Exchange&order=desc&prepost=false&format=JSON&apikey=72be8809556a4691ad121aead41180f8&source=python (Caused by NameResolutionError("HTTPSConnection(host='api.twelvedata.com', port=443): Failed to resolve 'api.twelvedata.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-07-15 03:52:25 - ERROR: HTTPSConnectionPool(host='api.twelvedata.com', port=443): Read timed out.
+2026-07-16 22:59:33 - ERROR: {"code":429,"message":"You have run out of API credits for the day. 801 API credits were used, with the current limit being 800. Wait for the next day or consider switching to a paid plan that will remove daily limits at https://twelvedata.com/pricing","status":"error"}
+2026-07-16 22:59:38 - ERROR: {"code":429,"message":"You have run out of API credits for the day. 802 API credits were used, with the current limit being 800. Wait for the next day or consider switching to a paid plan that will remove daily limits at https://twelvedata.com/pricing","status":"error"}
+2026-07-16 23:04:34 - ERROR: {"code":429,"message":"You have run out of API credits for the day. 803 API credits were used, with the current limit being 800. Wait for the next day or consider switching to a paid plan that will remove daily limits at https://twelvedata.com/pricing","status":"error"}
+2026-07-16 23:04:39 - ERROR: {"code":429,"message":"You have run out of API credits for the day. 804 API credits were used, with the current limit being 800. Wait for the next day or consider switching to a paid plan that will remove daily limits at https://twelvedata.com/pricing","status":"error"}
+2026-07-16 23:06:23 - ERROR: {"code":429,"message":"You have run out of API credits for the day. 805 API credits were used, with the current limit being 800. Wait for the next day or consider switching to a paid plan that will remove daily limits at https://twelvedata.com/pricing","status":"error"}
+2026-07-16 23:09:34 - ERROR: {"code":429,"message":"You have run out of API credits for the day. 806 API credits were used, with the current limit being 800. Wait for the next day or consider switching to a paid plan that will remove daily limits at https://twelvedata.com/pricing","status":"error"}
+2026-07-16 23:14:35 - ERROR: {"code":429,"message":"You have run out of API credits for the day. 807 API credits were used, with the current limit being 800. Wait for the next day or consider switching to a paid plan that will remove daily limits at https://twelvedata.com/pricing","status":"error"}
+2026-07-16 23:19:35 - ERROR: {"code":429,"message":"You have run out of API credits for the day. 808 API credits were used, with the current limit being 800. Wait for the next day or consider switching to a paid plan that will remove daily limits at https://twelvedata.com/pricing","status":"error"}
+2026-07-16 23:24:36 - ERROR: {"code":429,"message":"You have run out of API credits for the day. 809 API credits were used, with the current limit being 800. Wait for the next day or consider switching to a paid plan that will remove daily limits at https://twelvedata.com/pricing","status":"error"}
+2026-07-16 23:29:36 - ERROR: {"code":429,"message":"You have run out of API credits for the day. 810 API credits were used, with the current limit being 800. Wait for the next day or consider switching to a paid plan that will remove daily limits at https://twelvedata.com/pricing","status":"error"}
+2026-07-16 23:34:36 - ERROR: {"code":429,"message":"You have run out of API credits for the day. 811 API credits were used, with the current limit being 800. Wait for the next day or consider switching to a paid plan that will remove daily limits at https://twelvedata.com/pricing","status":"error"}
+2026-07-16 23:39:37 - ERROR: {"code":429,"message":"You have run out of API credits for the day. 812 API credits were used, with the current limit being 800. Wait for the next day or consider switching to a paid plan that will remove daily limits at https://twelvedata.com/pricing","status":"error"}
+2026-07-16 23:44:37 - ERROR: {"code":429,"message":"You have run out of API credits for the day. 813 API credits were used, with the current limit being 800. Wait for the next day or consider switching to a paid plan that will remove daily limits at https://twelvedata.com/pricing","status":"error"}
+2026-07-16 23:49:38 - ERROR: {"code":429,"message":"You have run out of API credits for the day. 814 API credits were used, with the current limit being 800. Wait for the next day or consider switching to a paid plan that will remove daily limits at https://twelvedata.com/pricing","status":"error"}
+2026-07-16 23:54:38 - ERROR: {"code":429,"message":"You have run out of API credits for the day. 815 API credits were used, with the current limit being 800. Wait for the next day or consider switching to a paid plan that will remove daily limits at https://twelvedata.com/pricing","status":"error"}
+2026-07-16 23:59:38 - ERROR: {"code":429,"message":"You have run out of API credits for the day. 816 API credits were used, with the current limit being 800. Wait for the next day or consider switching to a paid plan that will remove daily limits at https://twelvedata.com/pricing","status":"error"}
+2026-07-17 00:04:39 - ERROR: {"code":429,"message":"You have run out of API credits for the day. 817 API credits were used, with the current limit being 800. Wait for the next day or consider switching to a paid plan that will remove daily limits at https://twelvedata.com/pricing","status":"error"}
+2026-07-17 00:09:39 - ERROR: {"code":429,"message":"You have run out of API credits for the day. 818 API credits were used, with the current limit being 800. Wait for the next day or consider switching to a paid plan that will remove daily limits at https://twelvedata.com/pricing","status":"error"}
+2026-07-17 00:14:40 - ERROR: {"code":429,"message":"You have run out of API credits for the day. 819 API credits were used, with the current limit being 800. Wait for the next day or consider switching to a paid plan that will remove daily limits at https://twelvedata.com/pricing","status":"error"}
+2026-07-17 01:30:31 - ERROR: {"code":429,"message":"You have run out of API credits for the day. 820 API credits were used, with the current limit being 800. Wait for the next day or consider switching to a paid plan that will remove daily limits at https://twelvedata.com/pricing","status":"error"}
+2026-07-20 16:29:59 - ERROR: HTTPSConnectionPool(host='api.twelvedata.com', port=443): Max retries exceeded with url: /time_series?symbol=XAU%2FUSD&interval=1h&outputsize=200&dp=5&timezone=Exchange&order=desc&prepost=false&format=JSON&apikey=72be8809556a4691ad121aead41180f8&source=python (Caused by NameResolutionError("HTTPSConnection(host='api.twelvedata.com', port=443): Failed to resolve 'api.twelvedata.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-07-21 21:14:55 - ERROR: HTTPSConnectionPool(host='api.twelvedata.com', port=443): Read timed out. (read timeout=30)
+2026-07-22 15:05:35 - ERROR: HTTPSConnectionPool(host='api.twelvedata.com', port=443): Max retries exceeded with url: /time_series?symbol=XAU%2FUSD&interval=1h&outputsize=200&dp=5&timezone=Exchange&order=desc&prepost=false&format=JSON&apikey=72be8809556a4691ad121aead41180f8&source=python (Caused by NameResolutionError("HTTPSConnection(host='api.twelvedata.com', port=443): Failed to resolve 'api.twelvedata.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-07-24 09:26:14 - ERROR: HTTPSConnectionPool(host='api.twelvedata.com', port=443): Max retries exceeded with url: /time_series?symbol=XAU%2FUSD&interval=1h&outputsize=200&dp=5&timezone=Exchange&order=desc&prepost=false&format=JSON&apikey=72be8809556a4691ad121aead41180f8&source=python (Caused by NameResolutionError("HTTPSConnection(host='api.twelvedata.com', port=443): Failed to resolve 'api.twelvedata.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-07-28 15:45:04 - ERROR: ("Connection broken: ConnectionResetError(54, 'Connection reset by peer')", ConnectionResetError(54, 'Connection reset by peer'))
+2026-07-29 11:54:51 - ERROR: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+2026-07-29 21:27:08 - ERROR: HTTPSConnectionPool(host='api.twelvedata.com', port=443): Max retries exceeded with url: /time_series?symbol=XAU%2FUSD&interval=1h&outputsize=200&dp=5&timezone=Exchange&order=desc&prepost=false&format=JSON&apikey=72be8809556a4691ad121aead41180f8&source=python (Caused by NameResolutionError("HTTPSConnection(host='api.twelvedata.com', port=443): Failed to resolve 'api.twelvedata.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-07-29 23:05:59 - ERROR: HTTPSConnectionPool(host='api.twelvedata.com', port=443): Read timed out.
+2026-07-30 03:53:02 - ERROR: HTTPSConnectionPool(host='api.twelvedata.com', port=443): Read timed out. (read timeout=30)
+2026-07-30 17:15:31 - ERROR: ("Connection broken: ConnectionResetError(54, 'Connection reset by peer')", ConnectionResetError(54, 'Connection reset by peer'))
+2026-07-31 11:03:17 - ERROR: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+2026-08-04 14:44:57 - ERROR: HTTPSConnectionPool(host='api.twelvedata.com', port=443): Max retries exceeded with url: /time_series?symbol=XAU%2FUSD&interval=1h&outputsize=200&dp=5&timezone=Exchange&order=desc&prepost=false&format=JSON&apikey=72be8809556a4691ad121aead41180f8&source=python (Caused by NameResolutionError("HTTPSConnection(host='api.twelvedata.com', port=443): Failed to resolve 'api.twelvedata.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-08-04 15:00:19 - ERROR: HTTPSConnectionPool(host='api.twelvedata.com', port=443): Max retries exceeded with url: /time_series?symbol=XAU%2FUSD&interval=1h&outputsize=200&dp=5&timezone=Exchange&order=desc&prepost=false&format=JSON&apikey=72be8809556a4691ad121aead41180f8&source=python (Caused by NameResolutionError("HTTPSConnection(host='api.twelvedata.com', port=443): Failed to resolve 'api.twelvedata.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-08-05 08:45:37 - ERROR: HTTPSConnectionPool(host='api.twelvedata.com', port=443): Max retries exceeded with url: /time_series?symbol=XAU%2FUSD&interval=1h&outputsize=200&dp=5&timezone=Exchange&order=desc&prepost=false&format=JSON&apikey=72be8809556a4691ad121aead41180f8&source=python (Caused by NameResolutionError("HTTPSConnection(host='api.twelvedata.com', port=443): Failed to resolve 'api.twelvedata.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-08-05 10:01:34 - ERROR: HTTPSConnectionPool(host='api.twelvedata.com', port=443): Max retries exceeded with url: /time_series?symbol=XAU%2FUSD&interval=1h&outputsize=200&dp=5&timezone=Exchange&order=desc&prepost=false&format=JSON&apikey=72be8809556a4691ad121aead41180f8&source=python (Caused by NameResolutionError("HTTPSConnection(host='api.twelvedata.com', port=443): Failed to resolve 'api.twelvedata.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-08-05 12:01:42 - ERROR: HTTPSConnectionPool(host='api.twelvedata.com', port=443): Max retries exceeded with url: /time_series?symbol=XAU%2FUSD&interval=1h&outputsize=200&dp=5&timezone=Exchange&order=desc&prepost=false&format=JSON&apikey=72be8809556a4691ad121aead41180f8&source=python (Caused by NameResolutionError("HTTPSConnection(host='api.twelvedata.com', port=443): Failed to resolve 'api.twelvedata.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-08-05 13:00:17 - ERROR: HTTPSConnectionPool(host='api.twelvedata.com', port=443): Max retries exceeded with url: /time_series?symbol=XAU%2FUSD&interval=1h&outputsize=200&dp=5&timezone=Exchange&order=desc&prepost=false&format=JSON&apikey=72be8809556a4691ad121aead41180f8&source=python (Caused by NameResolutionError("HTTPSConnection(host='api.twelvedata.com', port=443): Failed to resolve 'api.twelvedata.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-08-05 14:51:01 - ERROR: HTTPSConnectionPool(host='api.twelvedata.com', port=443): Max retries exceeded with url: /time_series?symbol=XAU%2FUSD&interval=1h&outputsize=200&dp=5&timezone=Exchange&order=desc&prepost=false&format=JSON&apikey=72be8809556a4691ad121aead41180f8&source=python (Caused by NameResolutionError("HTTPSConnection(host='api.twelvedata.com', port=443): Failed to resolve 'api.twelvedata.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-08-05 16:22:26 - ERROR: HTTPSConnectionPool(host='api.twelvedata.com', port=443): Max retries exceeded with url: /time_series?symbol=XAU%2FUSD&interval=1h&outputsize=200&dp=5&timezone=Exchange&order=desc&prepost=false&format=JSON&apikey=72be8809556a4691ad121aead41180f8&source=python (Caused by NameResolutionError("HTTPSConnection(host='api.twelvedata.com', port=443): Failed to resolve 'api.twelvedata.com' ([Errno 8] nodename nor servname provided, or not known)"))
+2026-08-05 20:27:56 - ERROR: HTTPSConnectionPool(host='api.twelvedata.com', port=443): Max retries exceeded with url: /time_series?symbol=XAU%2FUSD&interval=1h&outputsize=200&dp=5&timezone=Exchange&order=desc&prepost=false&format=JSON&apikey=72be8809556a4691ad121aead41180f8&source=python (Caused by NameResolutionError("HTTPSConnection(host='api.twelvedata.com', port=443): Failed to resolve 'api.twelvedata.com' ([Errno 8] nodename nor servname provided, or not known)"))
